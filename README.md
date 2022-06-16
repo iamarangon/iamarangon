@@ -1,7 +1,7 @@
 ## Hello there 😜
 ### I'm Italo!
 
-- Pronouns: Him/His
+- Pronouns: he / him 
 - I'm currently learning:
   * Data Science with Python and a few tools (Pandas, Matplotlib, Numpy)
   * Front-End Dev. (HTML5, CSS3 an JavaScript)
