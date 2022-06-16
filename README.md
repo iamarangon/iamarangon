@@ -1,5 +1,4 @@
 ## Hello there 😜
-### I'm Italo!
 
 - Pronouns: he / him 
 - Brazilian
