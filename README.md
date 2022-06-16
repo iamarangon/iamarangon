@@ -1,22 +1,19 @@
-### Hi there 👋
+## Hello there 😜
+### I'm Italo!
 
-<!--
-**iamarangon/iamarangon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Pronouns: Him/His
+- I'm currently learning:
+  * Data Science with Python and a few tools (Pandas, Matplotlib, Numpy)
+  * Front-End Dev. (HTML5, CSS3 an JavaScript)
 
-Here are some ideas to get you started:
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamarangon&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamarangon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools
 
-### Ferramentas e Tecnologias
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" widht="40" height="40"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" widht="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" widht="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" widht="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" widht="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" widht="40" height="40"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" widht="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" widht="40" height="40">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" widht="40" height="40"/>
+
