@@ -1,21 +1,40 @@
-## Hello there 😜
+# 👋 Olá, eu sou o Ítalo Marangon
 
-- Pronouns: he / him 
-- Brazilian
+💻 Desenvolvedor Fullstack com foco em construção de aplicações e APIs  
+⚙️ Atuo principalmente com Java, Python, JavaScript e TypeScript  
+📍 Brasil  
 
-<div>
-<a href="https://github.com/iamarangon">
-<img widht="150em" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamarangon&layout=compact&langs_count=7&theme=dracula"/>
-<img widht="150em" height="150em" src="https://github-readme-stats.vercel.app/api?username=iamarangon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+---
 
-##
-### Tools
-<div style="display: inline-block">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" widht="40" height="30">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" widht="40" height="30"/>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" widht="40" height="30"/>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" widht="40" height="30"/>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" widht="40" height="30"/>
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" widht="40" height="30"/>
-</div>
+## 🚀 Tecnologias
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,spring,nodejs,mysql,docker,git" />
+</p>
+
+---
+
+## 🔭 Atualmente
+
+- Desenvolvimento de aplicações e APIs  
+- Estudo de arquitetura de software e boas práticas  
+- Evoluindo em automação e organização de sistemas  
+
+---
+
+## 📊 Estatísticas
+
+<p>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=iamarangon&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iamarangon&layout=compact&theme=dracula"/>
+</p>
+
+---
+
+## 📫 Contato
+
+<p>
+  <a href="https://www.linkedin.com/in/italomarangon">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
